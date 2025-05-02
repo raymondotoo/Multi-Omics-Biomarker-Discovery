@@ -1,3 +1,4 @@
+[![Update README Date](https://github.com/rayotoo/Multi-Omics-Biomarker-Discovery/actions/workflows/update_readme_date.yml/badge.svg)](https://github.com/rayotoo/Multi-Omics-Biomarker-Discovery/actions/workflows/update_readme_date.yml)
 # Multi-Omics-Biomarker-Discovery
 **Contact Information:**
 
